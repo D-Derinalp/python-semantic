@@ -1,4 +1,4 @@
-# Garden Path Sentences
+# Python Spacy Semantic Similary
 
 This is a Python project that imports Spacy and ready to run on Docker. 
 It has sensible defaults for security.
