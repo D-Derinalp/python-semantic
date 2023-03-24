@@ -1,4 +1,4 @@
-# Python Spacy Semantic Similary
+# Python Spacy Semantic Similarity
 
 This is a Python project that imports Spacy and ready to run on Docker. 
 It has sensible defaults for security.
